@@ -1,4 +1,4 @@
-from merge_lists import merge_lists
+from merge_of_two_lists import merge_lists
 
 def merge_sort(arr: list) -> list:
 

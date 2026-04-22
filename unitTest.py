@@ -1,5 +1,5 @@
 import pytest
-from merge_lists import merge_lists
+from merge_of_two_lists import merge_lists
 
 MERGE_LISTS_TEST_CASES = [
 
